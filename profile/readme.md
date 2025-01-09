@@ -1,3 +1,3 @@
-![AlbaCorp Banner](https://i.imgur.com/zbgIIn9.png)
+![The Alba Company Banner]([https://i.imgur.com/zbgIIn9.png](https://i.imgur.com/J6V6zE8.png))
 
-Bienvenue sur le github de la **AlbaCorp**, il n'y a rien mais ça peut arriver a tout moment 👀
+Bienvenue sur le github de **The Alba Company**, il n'y a rien mais ça peut arriver a tout moment 👀
